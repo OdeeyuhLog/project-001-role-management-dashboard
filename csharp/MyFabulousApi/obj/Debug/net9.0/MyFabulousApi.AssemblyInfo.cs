@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyFabulousApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+661c8c515db5fb425eccd12c3ef74fa13b7427c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8833c2a49d7538dd6ca032fd263851d2d187e36")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyFabulousApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyFabulousApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
